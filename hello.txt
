@@ -1,0 +1,2 @@
+ want to be able to read a currently open file. The test.rb is sending its output to test.log which I want to be able to read and ultimately send via email.
+
